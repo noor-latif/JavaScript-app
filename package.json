@@ -1,0 +1,28 @@
+{
+  "name": "javascript-app",
+  "version": "0.0.1",
+  "description": "single page application with javascript. no frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noor-latif/JavaScript-app.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "html",
+    "css"
+  ],
+  "author": "Noor Latif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noor-latif/JavaScript-app/issues"
+  },
+  "homepage": "https://github.com/noor-latif/JavaScript-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
